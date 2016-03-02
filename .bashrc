@@ -7,6 +7,7 @@ fi
 
 if [ -f ~/.git-completion.bash ]; then
     source ~/.git-completion.bash
+fi
 
 # User specific aliases and functions
 alias gdb='/spot/dev/3rdParty/cpp/gnu/gcc/gcc-4.9.1/bin/gdb'
